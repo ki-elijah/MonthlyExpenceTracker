@@ -1,0 +1,2 @@
+# MonthlyExpenceTracker
+pip install matplotlib
